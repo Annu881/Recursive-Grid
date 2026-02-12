@@ -9,7 +9,7 @@
 
 **An interactive 3×3 grid game with cascading ripple effects and dynamic locking mechanics**
 
-[Live Demo](#) • [Features](#-features) • [Installation](#-installation) • [Documentation](#-how-it-works)
+[Live Demo](https://recursive-grid-e65az3y5v-annus-projects-7bb8af93.vercel.app) • [Features](#-features) • [Installation](#-installation) • [Documentation](#-how-it-works)
 
 </div>
 
