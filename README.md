@@ -9,7 +9,9 @@
 
 **An interactive 3×3 grid game with cascading ripple effects and dynamic locking mechanics**
 
-[Live Demo](https://recursive-grid-e65az3y5v-annus-projects-7bb8af93.vercel.app) • [Features](#-features) • [Installation](#-installation) • [Documentation](#-how-it-works)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Click_to_Open-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://recursive-grid-e65az3y5v-annus-projects-7bb8af93.vercel.app)
+
+[Features](#-features) • [Installation](#-installation) • [Documentation](#-how-it-works)
 
 </div>
 
@@ -335,7 +337,7 @@ recursive-grid/
 
 ### Deploy to Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/recursive-grid)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Annu881/Recursive-Grid)
 
 ```bash
 # Install Vercel CLI
